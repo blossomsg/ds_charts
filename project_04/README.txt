@@ -1,0 +1,1 @@
+This project is from Hands-On Machine Learning - Chapter 2 California housing prices dataset - Regression

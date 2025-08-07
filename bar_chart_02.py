@@ -1,6 +1,4 @@
 from collections import Counter
-from symbol import yield_expr
-
 from matplotlib import pyplot
 
 grades = [83, 95, 91, 87, 70, 0, 85, 82, 100, 67, 73, 77, 0]
